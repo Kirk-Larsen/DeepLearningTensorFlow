@@ -1,2 +1,2 @@
 # DeepLearningTensorFlow
-Deep learning programs written in TensorFlow
+Deep learning in TensorFlow
